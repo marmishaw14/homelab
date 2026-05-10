@@ -60,6 +60,7 @@ How my homelab services interact with each other.
 |--------|------------|
 | Grafana, Beszel | Grafana for dashboards, Beszel for lightweight server monitoring |
 | Cloudflared | Connector that lets local apps be reachable from the internet without opening ports |
+| Portainer | GUI for managing my Docker containers |
 | Vaultwarden | Self-hosted alternative to Bitwarden for secrets and password management | 
 ---
 ## 💻 Hardware
