@@ -9,7 +9,7 @@
 - [Architecture](#-architecture)
 - [Services](#-services)
 - [Hardware](#-hardware)
-- [Future Improvements](#-future-improvements)
+- [What I'm Looking to Add Next](#-what-im-looking-to-add-next)
 
 ---
 
