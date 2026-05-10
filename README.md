@@ -60,7 +60,7 @@ How my homelab services interact with each other.
 |--------|------------|
 | Grafana, Beszel | Grafana for dashboards, Beszel for lightweight server monitoring |
 | Cloudflared | Connector that lets local apps be reachable from the internet without opening ports |
-  
+| Vaultwarden | Self-hosted alternative to Bitwarden for secrets and password management | 
 ---
 ## 💻 Hardware
 I'm running Ubuntu Server headless on an old PC that's running 24/7 in my basement.
