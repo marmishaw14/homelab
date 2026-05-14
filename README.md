@@ -1,4 +1,4 @@
-# 🏠 My Homelab
+# 🧪 My Homelab
 
 > Self-hosted infrastructure powering my projects, APIs, and experiments in distributed systems, DevOps, and backend development.
 
