@@ -63,6 +63,7 @@ How my homelab services interact with each other.
 | Portainer | GUI for managing my Docker containers |
 | Vaultwarden | Self-hosted alternative to Bitwarden for secrets and password management |
 | Ollama + Open WebUI | Running LLMs locally (Mistral 7B) |
+| Tailscale | So I can SSH into my server or desktop from anywhere, using my laptop.
 ---
 ## 💻 Hardware
 I'm running Ubuntu Server headless on an old PC that's running 24/7 in my basement.
