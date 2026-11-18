@@ -73,5 +73,8 @@ I'm running Ubuntu Server headless on an old PC that's running 24/7 in my baseme
 | **CPU** | AMD FX(tm)-6300 Six-Core Processor |
 | **RAM** | 8GB (I know it's low... I'm using an old PC) |
 
+## AI Development
+I have multiple GPUs ranging from RTX 3060 Tis to RTX 3090s and seek to build a personal AI and computer vision lab.
+
 ## 🤔 What I'm Looking to Add Next
 Some services I'm looking to self-host next are Immich for photo and video management, and Plex for media sharing. I'm always looking to add new services on my homelab to make my life easier, while also having control and privacy over my data.
